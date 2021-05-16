@@ -1,0 +1,3 @@
+Nhằm tạo ra sản phẩm cửa hàng tiền lợi., con đã tạo ra ứng dụng cửa hàng mini của riêng mình. Ứng dụng giúp khách đến mua hàng có thể chọn sản phẩm mình thích qua mã sản phẩm, nhập số lượng,
+
+thiết kế giỏ hàng giúp khách chọn lại nhiều lần và vẫn tổng hợp được số lượng của mặt hàng đó. Việc in hóa đoán bao gôm tất cả thông tin khách nhập và số lượng của từng món hàng
